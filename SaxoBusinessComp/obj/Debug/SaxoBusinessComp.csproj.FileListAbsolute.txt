@@ -1,0 +1,9 @@
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\bin\Debug\SaxoBusinessComp.dll
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\bin\Debug\SaxoBusinessComp.pdb
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\obj\Debug\SaxoBusinessComp.dll
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\obj\Debug\SaxoBusinessComp.pdb
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\obj\Debug\SaxoBusinessComp.csprojResolveAssemblyReference.cache
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\bin\Debug\Newtonsoft.Json.dll
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\bin\Debug\SaxoDAL.dll
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\bin\Debug\SaxoDAL.pdb
+F:\clients\LarsHoldgaard\SaxoApi\SaxoBusinessComp\bin\Debug\Newtonsoft.Json.xml

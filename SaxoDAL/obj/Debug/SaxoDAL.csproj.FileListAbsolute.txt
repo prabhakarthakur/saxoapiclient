@@ -1,0 +1,5 @@
+F:\clients\LarsHoldgaard\SaxoApi\SaxoDAL\bin\Debug\SaxoDAL.dll
+F:\clients\LarsHoldgaard\SaxoApi\SaxoDAL\bin\Debug\SaxoDAL.pdb
+F:\clients\LarsHoldgaard\SaxoApi\SaxoDAL\obj\Debug\SaxoDAL.dll
+F:\clients\LarsHoldgaard\SaxoApi\SaxoDAL\obj\Debug\SaxoDAL.pdb
+F:\clients\LarsHoldgaard\SaxoApi\SaxoDAL\obj\Debug\SaxoDAL.csprojResolveAssemblyReference.cache

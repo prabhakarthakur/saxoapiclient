@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "BookFinder";
+}
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#divResult").hide();
+        BookFinder.baseUrl = '@Url.Action("GetBookByIsbnNumber", "Book")';
+        $("#btnFindBook").click(function () {
+            BookFinder.GetBookByIds($("#txtIsbnNumbers").val());
+        });
+    });
+
+</script>
+
+<div class="row">
+    <div class="col-md-4">
+        <p>Please enter ISBN Number</p>
+        @Html.TextArea("txtIsbnNumbers", new { rows=10, columns=40 })
+        <br />
+        <button id="btnFindBook" class="btn btn-large btn-success">Submit</button>
+        </div>
+    <div class="col-md-6">&nbsp;
+        <div id="divResult">
+        <a id="bookLink" href="#"><img width="80" height="120" id="imgBookResult" src="" /></a>
+            <br />
+            <h4 id="spanTitle" class=""></h4>
+            Author: <span id="spanAuthor"></span>
+            </div>
+        </div>
+</div>
